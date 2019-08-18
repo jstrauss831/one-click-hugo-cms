@@ -1,13 +1,15 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Art and Thought
+subtitle: >-
+  Where one artist's visual expression and reflection on the artistic process
+  meet
+image: /img/img_20190104_181742.jpg
 blurb:
-  heading: What is 'ArtAwake'?
+  heading: What is ArtAwake?
   text: >-
-    Artawake is a place on the Net where I can display some of my recent artwork
-    and also blog about my process and the fearful and exciting adventure of
-    being a maker of visual stuff.
+    Artawake is my little corner of cyberspace where I can display some of my
+    recent artwork and also blog about my process and the fearful and exciting
+    adventure of being a maker of visual stuff.
 intro:
   heading: What we offer
   text: >-
